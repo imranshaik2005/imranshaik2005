@@ -1,4 +1,314 @@
 ## Hi there 👋
+<div align="center">
+
+<!-- Animated Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Imran+Shaik&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Typing Animation -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=100&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+Developer+%E2%9A%A1;Java+Developer+%F0%9F%94%A5;Building+Web+Applications+%F0%9F%9A%80;MySQL+%26+Backend+Enthusiast+%F0%9F%97%84%EF%B8%8F;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" />
+
+<br>
+
+<!-- Social Links -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-imran-a834235">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/imranshaik65">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:imranshaik72226@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<!-- About Me Section -->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+```javascript
+const imran = {
+    name: "Imran Shaik",
+    location: "India 🇮🇳",
+    role: "Aspiring Java Full Stack Developer 💻",
+    
+    skills: [
+        "Java",
+        "Spring Boot",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "MySQL",
+        "JDBC",
+        "Servlets"
+    ],
+
+    tools: [
+        "Eclipse IDE",
+        "VS Code",
+        "Apache Tomcat"
+    ],
+
+    interests: [
+        "Web Development",
+        "Backend Development",
+        "Database Management",
+        "Problem Solving",
+        "Artificial Intelligence"
+    ],
+
+    currentFocus: "Building and improving Java Full Stack projects 🚀",
+
+    lifeLoop: function() {
+        while(alive) {
+            learn();
+            code();
+            build();
+            improve();
+            repeat();
+        }
+    }
+};
+```
+
+<br clear="right"/>
+
+<!-- Wave Line -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Tech Stack -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Arsenal
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+#### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</div>
+
+#### ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlets-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+
+</td>
+
+<td valign="top" width="50%">
+
+#### 🗄️ Database
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+#### 💻 Tools & Concepts
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/OOP-Concepts-7B42F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-Concepts-00F7F7?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/SDLC-Concepts-7B42F6?style=for-the-badge" />
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Projects Section -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🛒 E-Commerce Web Application</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+Online shopping platform with product management, user authentication, CRUD operations, and MySQL database integration.
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">👨‍💼 Employee Management System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+Web application for managing employee records and departmental information using RESTful APIs and MySQL.
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🎓 Student Management System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+Academic management application for student records and enrollment data with validation and optimized database queries.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Internship -->
+
+<h2 align="center">💼 Internship Experience</h2>
+
+<div align="center">
+
+### ☕ Java Full Stack with AI Intern — Datavalley
+
+**May 2025 – June 2025**
+
+</div>
+
+* Completed a **7-week internship in Java Full Stack Development with AI**.
+* Gained practical experience in **Core Java and Object-Oriented Programming**.
+* Worked with **front-end and back-end technologies** for web-based applications.
+* Learned concepts related to **AI integration in software development**.
+* Improved **problem-solving, coding, and software development skills** through practical assignments.
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Certifications -->
+
+<h2 align="center">🏆 Certifications</h2>
+
+<div align="center">
+
+| Certification                                    | Organization          | Year |
+| ------------------------------------------------ | --------------------- | ---- |
+| Google AI Essentials                             | Google & Coursera     | 2025 |
+| Java Full Stack with AI Internship Certification | Datavalley            | 2025 |
+| Long-Term Internship in Data Visualizations      | Datavalley & APSCHE   | 2026 |
+| Introduction to Internet of Things               | NPTEL – IIT Kharagpur | 2024 |
+
+</div>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- GitHub Stats Section -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imranshaik65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=imranshaik65&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranshaik65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranshaik65&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+
+</div>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- GitHub Snake -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranshaik65/imranshaik65/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranshaik65/imranshaik65/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/imranshaik65/imranshaik65/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Footer -->
+
+<div align="center">
+
+### 💻 Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
 
 <!--
 **imranshaik2005/imranshaik2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
